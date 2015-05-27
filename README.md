@@ -19,8 +19,8 @@ xwalkgen [-h] [--fullscreen] [--landscape] bundle uid name
 ## Plugme (Cordova Plugin Installer)
   - USAGE:
 ```bash
-plugme (install, installdebug, remove, list, create) pluginfile/id [-name Name] [-i] [-m method1 ...N]
-```<br>
+plugme (install, installdebug, remove, list, create) pluginfile/ method1 id [-name Name] [-i] [-m ...N]
+```
 
 
 
